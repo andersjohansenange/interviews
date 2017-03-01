@@ -44,6 +44,21 @@ https://en.wikipedia.org/wiki/Heapsort
 
 ### BinSearch
 
+### Hashing
+
+What is a Bloom filer? : 
+
+https://llimllib.github.io/bloomfilter-tutorial/
+
+https://en.wikipedia.org/wiki/Bloom_filter
+
+### Tries
+
+https://en.wikipedia.org/wiki/Trie
+
+https://en.wikipedia.org/wiki/Suffix_tree
+
+
 
 ## Graph algorithms
 
@@ -52,6 +67,7 @@ https://en.wikipedia.org/wiki/Heapsort
 ### BFS
 
 ### Djikstra
+https://en.wikipedia.org/wiki/Dijkstra's_algorithm
 
 ### Cycle detection
 
