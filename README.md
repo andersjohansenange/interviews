@@ -63,19 +63,40 @@ https://en.wikipedia.org/wiki/Suffix_tree
 ## Graph algorithms
 
 ### DFS
+https://en.wikipedia.org/wiki/Depth-first_search
 
 ### BFS
+https://en.wikipedia.org/wiki/Breadth-first_search
 
 ### Djikstra
 https://en.wikipedia.org/wiki/Dijkstra's_algorithm
 
+### A*
+https://en.wikipedia.org/wiki/A*_search_algorithm
+
+### Bellman-Ford
+https://en.wikipedia.org/wiki/Bellman–Ford_algorithm
+
 ### Cycle detection
+http://www.geeksforgeeks.org/detect-cycle-undirected-graph/
+
+http://www.geeksforgeeks.org/detect-cycle-in-a-graph/
+
+http://stackoverflow.com/questions/261573/best-algorithm-for-detecting-cycles-in-a-directed-graph
+
+https://en.wikipedia.org/wiki/Cycle_(graph_theory)
+
 
 ### Distance
+(Shortest path problem, see Djikstra, A*, Bellman-Ford etc)
 
-### Connectrivity
 
-### Representations
+### Connectivity
+https://en.wikipedia.org/wiki/Connectivity_(graph_theory)
+
+https://en.wikipedia.org/wiki/Connected_component_(graph_theory)
+
+### Graph representations
 
 ## Path finding/game winning
 
@@ -88,6 +109,25 @@ https://en.wikipedia.org/wiki/Dijkstra's_algorithm
 ## OS tech/issues
 (Processes/threads/basic synchronization)
 
+### Deadlock/livelock/starvation
+https://en.wikipedia.org/wiki/Deadlock
+
+https://en.wikipedia.org/wiki/Deadlock#Livelock
+
+https://www.quora.com/What-is-the-difference-between-deadlock-and-livelock-deadlock-infinite-recursion-and-starvation
+
+### Thread vs. process
+Threads share memory, processes do not
+
+### Concistency and coherence
+
+http://cs.stackexchange.com/questions/20044/memory-consistency-vs-cache-coherence
+
+http://www2.ece.gatech.edu/academic/courses/fall2006/ece6100/Lectures/Module%2011%20-%20%20Coherence%20and%20Consistency/module.coherence.consistency.pdf
+
+https://www.quora.com/What-is-the-difference-between-cache-consistency-and-cache-coherence
+
+https://lagunita.stanford.edu/c4x/Engineering/CS316/asset/A_Primer_on_Memory_Consistency_and_Coherence.pdf
 
 ## Systems design
 
