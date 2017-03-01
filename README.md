@@ -9,13 +9,17 @@ My Cram flashcards: http://www.cram.com/flashcards/algorithms-interview-cards-83
 ### High-level
 
 Palantir's guides to acing algorithm, coding and systems design interviews
+
 https://www.palantir.com/2011/09/how-to-ace-an-algorithms-interview/
+
 https://www.palantir.com/2011/10/the-coding-interview/
+
 https://www.palantir.com/2011/10/how-to-ace-a-systems-design-interview/
 
 
 ### Systems design
 https://www.careercup.com/page?pid=system-design-interview-questions
+
 https://www.careercup.com/page?pid=google-interview-questions&topic=system-design-interview-questions
 
 http://blog.gainlo.co/index.php/category/system-design-interview-questions/
@@ -82,7 +86,10 @@ https://en.wikipedia.org/wiki/Heapsort
 
 ### n-choose-k
 https://en.wikipedia.org/wiki/Combination
+
 https://www.hackmath.net/en/calculator/n-choose-k
+
 http://stackoverflow.com/questions/15301885/calculate-value-of-n-choose-k
+
 http://mathworld.wolfram.com/Combination.html
 
