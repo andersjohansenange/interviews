@@ -6,6 +6,10 @@ Code samples for training for interviews
 
 My Cram flashcards: http://www.cram.com/flashcards/algorithms-interview-cards-8343429
 
+Recursion: http://interactivepython.org/runestone/static/pythonds/Recursion/toctree.html
+
+
+
 ### High-level
 
 Palantir's guides to acing algorithm, coding and systems design interviews
