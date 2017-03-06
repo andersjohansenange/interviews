@@ -8,7 +8,11 @@ My Cram flashcards: http://www.cram.com/flashcards/algorithms-interview-cards-83
 
 Recursion: http://interactivepython.org/runestone/static/pythonds/Recursion/toctree.html
 
+Hacking a Google interview: http://courses.csail.mit.edu/iap/interview/materials.php
 
+Quora: https://www.quora.com/How-much-time-did-you-spend-preparing-for-Googles-interviews
+
+Quora: https://www.quora.com/How-should-I-prepare-for-my-Google-interview-if-I-have-1-month-left
 
 ### High-level
 
