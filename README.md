@@ -14,6 +14,8 @@ Quora: https://www.quora.com/How-much-time-did-you-spend-preparing-for-Googles-i
 
 Quora: https://www.quora.com/How-should-I-prepare-for-my-Google-interview-if-I-have-1-month-left
 
+Open course ware MIT algorithms: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
+
 ### High-level
 
 Palantir's guides to acing algorithm, coding and systems design interviews
